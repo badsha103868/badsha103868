@@ -5,9 +5,10 @@
 
 ## 👨‍💻 About Me
 I am a Junior Web Developer with a strong focus on frontend development.
-I can build fully responsive and user-friendly web applications using React and modern UI tools.
-I also have hands-on experience with backend technologies like Node.js, Express, and MongoDB.
-I enjoy learning new technologies and working on real-world projects as part of a team.
+I build fully responsive and user-friendly web applications using React and modern UI tools.
+I also have practical experience working with backend technologies such as Node.js, Express, and MongoDB.
+I am passionate about learning new technologies and contributing to real-world projects in a collaborative team environment.
+
 
 ---
 
