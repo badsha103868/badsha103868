@@ -61,16 +61,12 @@ I am passionate about learning new technologies and contributing to real-world p
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badsha103868&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Followers](https://img.shields.io/github/followers/badsha103868?label=Followers&style=social)
+![GitHub Public Repos](https://img.shields.io/github/user/repo-count/badsha103868?style=flat)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badsha103868&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badsha103868&layout=compact&theme=tokyonight" />
-</p>
+
+
