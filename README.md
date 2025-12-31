@@ -33,10 +33,13 @@ Git | GitHub | VS Code | Vercel | Firebase
 ---
 
 ## 📌 Projects
-- ContestHub – MERN Stack Application
-- Krishi Farm – MERN Stack Application
-- My Green Nest – React & Firebase
-- My Hero Apps – React Application
+## 📌 Pinned Projects
+
+- [ContestHub](https://github.com/badsha103868/contest-hub-client-a11)
+- [Krishi Farm](https://github.com/badsha103868/krishi-farm-a10-client)
+- [My Green Nest](https://github.com/badsha103868/my-green-nest-a09)
+
+
 
 ---
 
