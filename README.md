@@ -49,9 +49,10 @@ I am passionate about learning new technologies and contributing to real-world p
 ---
 
 ## 📌 Pinned Projects
+- 🔗 [Stockify](https://github.com/labibaltasfi/Stockify/tree/development)
 - 🔗 [ContestHub](https://github.com/badsha103868/contest-hub-client-a11)
 - 🔗 [Krishi Farm](https://github.com/badsha103868/krishi-farm-a10-client)
-- 🔗 [My Green Nest](https://github.com/badsha103868/my-green-nest-a09)
+
 
 ---
 
